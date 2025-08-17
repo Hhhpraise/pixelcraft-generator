@@ -127,10 +127,6 @@ Save your work as `.pixelproj` files to preserve all settings and allow easy ite
 - Write docstrings for all public methods
 - Keep functions focused and modular
 
-### Testing
-```bash
-python -m pytest tests/
-```
 
 ## 🤝 Contributing
 
@@ -190,9 +186,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pixelcraft-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/pixelcraft-generator/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/hhhpraise/pixelcraft-generator/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/hhhpraise/pixelcraft-generator/discussions)
+- **Email**: hhhpraise33@gmail.com
 
 ## 🔮 Roadmap
 
@@ -218,8 +214,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Hhhpraise]**
 
-[⭐ Star this repo](https://github.com/yourusername/pixelcraft-generator) if you find it useful!
+[⭐ Star this repo](https://github.com/hhhpraise/pixelcraft-generator) if you find it useful!
 
 </div>
