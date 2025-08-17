@@ -8,6 +8,10 @@
 
 PixelCraft Generator is a powerful, user-friendly desktop application built with Python and Tkinter that converts regular images into beautiful pixel art. Whether you're a game developer, digital artist, or just love retro aesthetics, this tool provides professional-grade features with an intuitive interface.
 
+### As a Web App:
+1. Visit [https://hhhpraise.github.io/pixelcraft-generator/](https://hhhpraise.github.io/pixelcraft-generator/)
+2. Add to home screen (mobile) or bookmark (desktop)
+
 ## ✨ Features
 
 ### 🖼️ **Image Processing**
